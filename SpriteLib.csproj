@@ -40,22 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CAlphaSprite.cs" />
-    <Compile Include="CAlphaSpriteHelper.cs" />
-    <Compile Include="CAlphaSpritePack.cs" />
-    <Compile Include="CAlphaSpritePackHelper.cs" />
-    <Compile Include="CIndexSprite.cs" />
-    <Compile Include="CIndexSpriteHelper.cs" />
-    <Compile Include="CIndexSpritePack.cs" />
-    <Compile Include="CIndexSpritePackHelper.cs" />
-    <Compile Include="CShadowSprite.cs" />
-    <Compile Include="CShadowSpriteHelper.cs" />
-    <Compile Include="CShadowSpritePack.cs" />
-    <Compile Include="CShadowSpritePackHelper.cs" />
-    <Compile Include="CSprite.cs" />
-    <Compile Include="CSpriteHelper.cs" />
-    <Compile Include="CSpritePack.cs" />
-    <Compile Include="CSpritePackHelper.cs" />
+    <Compile Include="CAlphaSprite\CAlphaSprite.cs" />
+    <Compile Include="CAlphaSprite\CAlphaSpriteHelper.cs" />
+    <Compile Include="CAlphaSprite\CAlphaSpritePack.cs" />
+    <Compile Include="CAlphaSprite\CAlphaSpritePackHelper.cs" />
+    <Compile Include="CIndexSprite\CIndexSprite.cs" />
+    <Compile Include="CIndexSprite\CIndexSpriteHelper.cs" />
+    <Compile Include="CIndexSprite\CIndexSpritePack.cs" />
+    <Compile Include="CIndexSprite\CIndexSpritePackHelper.cs" />
+    <Compile Include="CShadowSprite\CShadowSprite.cs" />
+    <Compile Include="CShadowSprite\CShadowSpriteHelper.cs" />
+    <Compile Include="CShadowSprite\CShadowSpritePack.cs" />
+    <Compile Include="CShadowSprite\CShadowSpritePackHelper.cs" />
+    <Compile Include="CSprite\CSprite.cs" />
+    <Compile Include="CSprite\CSpriteHelper.cs" />
+    <Compile Include="CSprite\CSpritePack.cs" />
+    <Compile Include="CSprite\CSpritePackHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
